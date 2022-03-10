@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "wallet_jwtPrivateKey",
+    "db": "mongodb://localhost/wallet-system"
+  }
